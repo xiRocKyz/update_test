@@ -1,5 +1,6 @@
-local update_testVersions = {--{version = 100, files = {toAdd = {}, toUpdate = {}, toRemove = {}}, description = "example", new = "example"}
+local update_testVersions = {
     {version = 100, files = {{}, {}, {}}},
+    {version = 101, files = {{"add.lua", "gg.lua"}, {}, {}}},
 }
 
 function getupdate_testVersions()
