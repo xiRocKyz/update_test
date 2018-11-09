@@ -1,0 +1,4 @@
+<meta>
+	<script src="versions.lua" type="server" cache="false"/>
+	<script src="updater.lua" type="server" cache="false"/>
+</meta>
